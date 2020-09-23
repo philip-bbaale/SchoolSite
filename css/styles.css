@@ -15,3 +15,7 @@
 .carousel_image{
     height: 380px;
 }
+.faculty_image{
+    height: 380px;
+    object-fit: contain;
+}
