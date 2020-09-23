@@ -68,3 +68,6 @@
     width: 300px;
     border-radius: 50px;
 }
+.governor_image{
+    object-fit: cover;
+}
