@@ -2,13 +2,13 @@
     height: 120px;
     width: 109px;
 }
-.box1{
+.home_box{
     padding-top: 15%;
     padding-bottom: 15%;
     background-image: url("../images/BATC\ Students\,\ Faculty\,\ and\ Staff.jpg");
     background-size: cover;
 }
-.box1_text{
+.home_box_text{
     background-color:white;
     opacity: 0.8;
 }
@@ -18,4 +18,14 @@
 .faculty_image{
     height: 380px;
     object-fit: contain;
+}
+.spiritual_box{
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-image: url("../images/IMG_20190627_081104460_HDR.jpg");
+    background-size: cover;
+}
+.spiritual_box_text{
+    background-color:white;
+    opacity: 0.8;
 }
