@@ -29,3 +29,27 @@
     background-color:white;
     opacity: 0.8;
 }
+.student_life_image1{
+    background-image: url("../images/IMG_20191206_125014441.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.student_life_image2{
+    background-image: url("../images/image4.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.student_life_image3{
+    background-image: url("../images/8a.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.student_life_image4{
+    background-image: url("../images/IMG_20190626_162615035.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
