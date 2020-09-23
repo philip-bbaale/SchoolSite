@@ -53,3 +53,13 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+.giving_BATC_box{
+    padding-top: 15%;
+    padding-bottom: 15%;
+    background-image: url("../images/IMG_20190721_144523603.jpg");
+    background-size: cover;
+}
+.giving_BATC_text{
+    background-color:white;
+    opacity: 0.8;
+}
