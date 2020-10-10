@@ -71,13 +71,13 @@
 .governor_image{
     object-fit: cover;
 }
-.cources_offered_box{
+.courses_offered_box{
     padding-top: 15%;
     padding-bottom: 15%;
     background-image: url("../images/IMG_20190515_115706599_HDR.jpg");
     background-size: cover;
 }
-.cources_offered_text{
+.courses_offered_text{
     background-color:white;
     opacity: 0.8;
 }
